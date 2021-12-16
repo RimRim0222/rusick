@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icn_myLocation" transform="translate(-380 -5023)">
+    <g id="그룹_32114" data-name="그룹 32114" transform="translate(112 2019)">
+      <rect id="사각형_2516" data-name="사각형 2516" width="40" height="40" transform="translate(268 3004)" fill="#fcd7d7" opacity="0"/>
+      <g id="그룹_20918" data-name="그룹 20918" transform="translate(13926.599 20078.449)">
+        <g id="crosshair" transform="translate(-13651.409 -17067.26)">
+          <circle id="Oval" cx="13" cy="13" r="13" transform="translate(-0.188 -0.189)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Shape" d="M5.028,0H0" transform="translate(20.422 12.742)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Shape-2" data-name="Shape" d="M5.028,0H0" transform="translate(0.31 12.742)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Shape-3" data-name="Shape" d="M0,5.028V0" transform="translate(12.88 0.172)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+          <path id="Shape-4" data-name="Shape" d="M0,5.028V0" transform="translate(12.88 20.284)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="icon_sp_04" transform="translate(-130 -1135)">
+    <rect id="사각형_3376" data-name="사각형 3376" width="120" height="120" transform="translate(130 1135)" fill="none"/>
+    <g id="그룹_22040" data-name="그룹 22040" transform="translate(315.801 -1641.437)">
+      <g id="그룹_22038" data-name="그룹 22038">
+        <path id="패스_16007" data-name="패스 16007" d="M-139.133,2808.675a9.994,9.994,0,0,0,.148,8.841c2.817,4.759.947,12.872-4.057,14.166-11.864,3.069-17.758-8.943-17.758-19.816s8.547-22.911,19.865-18.213C-136.362,2795.551-137.445,2804.847-139.133,2808.675Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+        <path id="패스_16008" data-name="패스 16008" d="M-138.985,2817.516s-1.775-3.206-6.795-2.8" fill="#4ac6fd" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="그룹_22039" data-name="그룹 22039">
+        <path id="패스_16009" data-name="패스 16009" d="M-111.682,2808.675a9.994,9.994,0,0,1-.148,8.841c-2.817,4.759-.947,12.872,4.057,14.166,11.864,3.069,17.758-8.943,17.758-19.816s-8.546-22.911-19.865-18.213C-114.453,2795.551-113.37,2804.847-111.682,2808.675Z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+        <path id="패스_16010" data-name="패스 16010" d="M-112.438,2818.779s1.4-5,7.432-4.1" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <path id="패스_16011" data-name="패스 16011" d="M-111.559,2864.5c0-5.274-6.359-9.549-14.2-9.549s-14.2,4.275-14.2,9.549c0,2.5,1.443,4.775,3.79,6.475,0,0,5.752,3.98,5.753,9.841v4.2h9.317v-4.2c0-5.863,5.753-9.843,5.753-9.843C-113,2869.28-111.559,2867.009-111.559,2864.5Z" fill="#4ac6fd" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+      <path id="패스_16012" data-name="패스 16012" d="M-139.59,2867.015c-2.23-4.59-3.98-11.988.648-20.891,7.876-15.154,9.143-31.756-5.334-31.484" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+      <path id="패스_16013" data-name="패스 16013" d="M-111.988,2867.014c2.23-4.589,3.979-11.987-.648-20.89-7.877-15.154-9.143-31.756,5.334-31.483" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

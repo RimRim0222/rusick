@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="icn_ac_01" transform="translate(0 0.068)">
+    <g id="그룹_27067" data-name="그룹 27067" transform="translate(5 5)">
+      <rect id="사각형_4165" data-name="사각형 4165" width="60" height="60" transform="translate(0 -0.068)" fill="none"/>
+      <path id="패스_14241" data-name="패스 14241" d="M1273.938,1617.536h2.032a2.685,2.685,0,0,1,2.686,2.685v44.17a2.685,2.685,0,0,1-2.686,2.685h-34.734a2.686,2.686,0,0,1-2.686-2.685v-44.17a2.686,2.686,0,0,1,2.686-2.685h2.032" transform="translate(-1228.85 -1609.771)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_14242" data-name="패스 14242" d="M1251.652,1663.231l3.04,3.04,4.559-4.56" transform="translate(-1233.694 -1626.104)" fill="none" stroke="#4ac6ff" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_487" data-name="선 487" x2="12.627" transform="translate(30.115 38.646)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_14243" data-name="패스 14243" d="M1251.652,1677.7l3.04,3.04,4.559-4.56" transform="translate(-1233.694 -1631.454)" fill="none" stroke="#4ac6ff" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_488" data-name="선 488" x2="12.627" transform="translate(30.115 47.765)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+      <g id="그룹_21584" data-name="그룹 21584" transform="translate(23.281 15.13)">
+        <line id="선_99" data-name="선 99" x2="12.944" transform="translate(0 6.473)" fill="none" stroke="#000" stroke-width="2"/>
+        <line id="선_100" data-name="선 100" y1="12.944" transform="translate(6.464)" fill="none" stroke="#000" stroke-width="2"/>
+      </g>
+      <path id="사각형_2856" data-name="사각형 2856" d="M7.077,0h7.077a7.077,7.077,0,0,1,7.077,7.077v0a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0v0A7.077,7.077,0,0,1,7.077,0Z" transform="translate(19.138 3.047)" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <rect id="사각형_4213" data-name="사각형 4213" width="70" height="70" transform="translate(0 -0.068)" fill="none"/>
+  </g>
+</svg>

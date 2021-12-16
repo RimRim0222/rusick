@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="icn_del" transform="translate(-1082 -5415)">
+    <rect id="bounds" width="70" height="70" transform="translate(1082 5415)" fill="rgba(28,143,248,0.34)" opacity="0"/>
+    <path id="Shape" d="M0,0H44.873" transform="translate(1095.73 5437.867)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path" d="M30.852,0V31.033a4.42,4.42,0,0,1-4.407,4.433H4.407A4.42,4.42,0,0,1,0,31.033V0" transform="translate(1102.741 5437.867)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path-2" data-name="Path" d="M0,8.867V4.433A4.42,4.42,0,0,1,4.407,0h8.815A4.42,4.42,0,0,1,17.63,4.433V8.867" transform="translate(1109.353 5429)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Shape-2" data-name="Shape" d="M0,0V14" transform="translate(1113.76 5448.6)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Shape-3" data-name="Shape" d="M0,0V14" transform="translate(1122.574 5448.6)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

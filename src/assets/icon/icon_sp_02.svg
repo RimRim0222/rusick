@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="icon_sp_02" transform="translate(-130 -545)">
+    <rect id="사각형_2887" data-name="사각형 2887" width="120" height="120" transform="translate(130 545)" fill="none"/>
+    <g id="그룹_22034" data-name="그룹 22034" transform="translate(-642.354 -2239.744)">
+      <path id="패스_15997" data-name="패스 15997" d="M860.121,2881.287v-28.463c0-.451-.028-.877-.05-1.307L870,2878.3c.944,2.547,2.976,4.141,5.316,3.275s2.84-3.4,1.9-5.95c0,0-10.458-28.256-11.866-31.99a10.7,10.7,0,0,0-10-7.286H837.494" transform="translate(9.686 3.804)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+      <circle id="타원_523" data-name="타원 523" cx="10.854" cy="10.854" r="10.854" transform="translate(843.244 2812.592)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+      <circle id="타원_524" data-name="타원 524" cx="10.854" cy="10.854" r="10.854" transform="translate(798.044 2812.592)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+      <path id="패스_15998" data-name="패스 15998" d="M817.185,2836.345H799.333a10.7,10.7,0,0,0-10,7.286c-1.408,3.733-11.866,31.99-11.866,31.99-.944,2.548-.446,5.085,1.9,5.95s4.371-.729,5.316-3.275l9.933-26.779c-.022.43-.05.856-.05,1.307v28.463" transform="translate(0 3.804)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+      <path id="패스_15999" data-name="패스 15999" d="M837.612,2879.351v-20.043c0-.3-.019-.579-.033-.864l6.555,17.674c.624,1.681,1.964,2.732,3.508,2.161s1.875-2.246,1.251-3.927c0,0-6.9-18.647-7.831-21.111a7.062,7.062,0,0,0-6.6-4.809H819.833a7.063,7.063,0,0,0-6.6,4.809c-.93,2.464-7.831,21.111-7.831,21.111-.623,1.681-.295,3.356,1.251,3.927s2.885-.48,3.508-2.161l6.556-17.674c-.015.286-.034.566-.034.864v20.043Z" transform="translate(4.498 5.74)" fill="#4ac6fd" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+      <circle id="타원_525" data-name="타원 525" cx="7.361" cy="7.361" r="7.361" transform="translate(824.284 2834.938)" fill="#4ac6fd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

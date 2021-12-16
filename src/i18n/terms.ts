@@ -1,0 +1,52 @@
+export enum TERMS {
+  TERMS_TITLE = 'TERMS_TITLE',
+  TERMS_ALLCHECK = 'TERMS_ALLCHECK',
+  TERMS_REQUIRED = 'TERMS_REQUIRED',
+  TERMS_CHOICE = 'TERMS_CHOICE',
+  TERMS_01 = 'TERMS_01',
+  TERMS_02 = 'TERMS_02',
+  TERMS_03 = 'TERMS_03',
+  TERMS_04 = 'TERMS_04',
+  TERMS_05 = 'TERMS_05',
+}
+
+export enum TERMS2 {
+  TERMS_TITLE1 = 'TERMS_TITLE',
+  TERMS_ALLCHECK1 = 'TERMS_ALLCHECK',
+  TERMS_REQUIRED1 = 'TERMS_REQUIRED',
+  TERMS_CHOICE1 = 'TERMS_CHOICE',
+  TERMS_011 = 'TERMS_01',
+  TERMS_021 = 'TERMS_02',
+  TERMS_031 = 'TERMS_03',
+  TERMS_041 = 'TERMS_04',
+  TERMS_051 = 'TERMS_05',
+}
+
+const EN = {
+  [TERMS.TERMS_TITLE]: '',
+  [TERMS.TERMS_REQUIRED]: '',
+  [TERMS.TERMS_CHOICE]: '',
+  [TERMS.TERMS_ALLCHECK]: '',
+  [TERMS.TERMS_01]: '',
+  [TERMS.TERMS_02]: '',
+  [TERMS.TERMS_03]: '',
+  [TERMS.TERMS_04]: '',
+  [TERMS.TERMS_05]: '',
+};
+
+const KO = {
+  [TERMS.TERMS_TITLE]: '이용약관에 동의하고 어디아파 서비스를 이용해보세요.',
+  [TERMS.TERMS_ALLCHECK]: '모든 약관 동의',
+  [TERMS.TERMS_REQUIRED]: '필수',
+  [TERMS.TERMS_CHOICE]: '선택',
+  [TERMS.TERMS_01]: '어디아파 서비스 이용약관',
+  [TERMS.TERMS_02]: '개인정보 수집 및 이용약관',
+  [TERMS.TERMS_03]: '위치정보 서비스 이용약관',
+  [TERMS.TERMS_04]: '전자금융거래 이용약관',
+  [TERMS.TERMS_05]: '마케팅 정보 수신 동의',
+};
+
+export const TERMS_LIST = {
+  EN,
+  KO,
+};

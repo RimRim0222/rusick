@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="icn_inform_new" transform="translate(-4862.5 -69.5)">
+    <rect id="사각형_1578-2" data-name="사각형 1578-2" width="64" height="64" transform="translate(4863 70)" fill="#fde2e2" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0"/>
+    <g id="그룹_20288" data-name="그룹 20288" transform="translate(-20.607 -63.088)">
+      <path id="패스_14057" data-name="패스 14057" d="M-787.245,575.572a4.678,4.678,0,0,1-4.677,4.677,4.677,4.677,0,0,1-4.677-4.677" transform="translate(5707.223 -395.001)" fill="none" stroke="#000" stroke-width="3"/>
+      <path id="패스_14058" data-name="패스 14058" d="M-775.642,561.609c0,4.6,2.221,6.606,3.41,7.353a1.6,1.6,0,0,1,.732,1.369v2.71a1.655,1.655,0,0,1-1.656,1.655h-33.29a1.655,1.655,0,0,1-1.656-1.655v-2.716a1.6,1.6,0,0,1,.726-1.365c1.178-.747,3.378-2.758,3.378-7.352l-.014-6.3a14.183,14.183,0,0,1,14.183-14.183" transform="translate(5705.101 -396.936)" fill="none" stroke="#000" stroke-width="3"/>
+      <path id="타원_389" data-name="타원 389" d="M10.1,0A10.1,10.1,0,1,1,0,10.1,10.1,10.1,0,0,1,10.1,0Z" transform="translate(4916.46 141.552)" fill="#ff1a1a"/>
+      <path id="패스_14056" data-name="패스 14056" d="M-776.255,553.3h-1.692l-4.338-6.9v6.9h-1.692v-9.736h1.692l4.352,6.934v-6.934h1.679Z" transform="translate(5706.677 -396.777)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

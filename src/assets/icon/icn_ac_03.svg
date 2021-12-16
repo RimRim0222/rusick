@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="icn_ac_03" transform="translate(0 -0.238)">
+    <g id="그룹_31153" data-name="그룹 31153" transform="translate(14.854 19.032)">
+      <path id="패스_14246" data-name="패스 14246" d="M-4359.781-12.437V-38.469a2.952,2.952,0,0,0-2.952-2.952h-35.275a2.952,2.952,0,0,0-2.952,2.952v18.526l11.317-12.276,9.058,14.373,5.143-5.22,14.658,12.833A2.936,2.936,0,0,0-4359.781-12.437Z" transform="translate(4400.96 42.17)" fill="#4ac6ff"/>
+      <rect id="사각형_4166" data-name="사각형 4166" width="41.18" height="31.936" rx="4.261" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <ellipse id="타원_438" data-name="타원 438" cx="3.503" cy="3.504" rx="3.503" ry="3.504" transform="translate(27.751 6.222)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_14247" data-name="패스 14247" d="M-4361.028-7.478l-14.415-12.59-5.142,5.221-9.057-14.373-11.318,12.276" transform="translate(4400.96 38.422)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <rect id="사각형_4215" data-name="사각형 4215" width="70" height="70" transform="translate(0 0.238)" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="icn_location" transform="translate(-0.419 -0.353)">
+    <g id="pin" transform="translate(17.268 12.881)">
+      <path id="패스_14158" data-name="패스 14158" d="M-1053.087,1282.248c0,7.054-7.207,16.139-11.078,20.511a3.2,3.2,0,0,1-4.792,0c-3.876-4.359-11.085-13.422-11.071-20.515a13.417,13.417,0,0,1,13.47-13.364A13.417,13.417,0,0,1-1053.087,1282.248Z" transform="translate(1080.027 -1268.883)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+      <ellipse id="타원_419" data-name="타원 419" cx="3.928" cy="3.928" rx="3.928" ry="3.928" transform="translate(9.542 9.647)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <rect id="사각형_3206" data-name="사각형 3206" width="60" height="60" transform="translate(0.419 0.353)" fill="none"/>
+  </g>
+</svg>

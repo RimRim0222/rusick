@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="icn_inform" transform="translate(-533.5 -87.501)">
+    <rect id="사각형_1578-2" data-name="사각형 1578-2" width="64" height="64" transform="translate(534 88.001)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    <g id="그룹_18218" data-name="그룹 18218" transform="translate(547.336 98.986)">
+      <path id="패스_13900" data-name="패스 13900" d="M-558.32,258.307a4.49,4.49,0,0,1-4.49,4.49,4.491,4.491,0,0,1-4.491-4.49" transform="translate(581.202 -221.779)" fill="none" stroke="#000" stroke-width="3"/>
+      <path id="패스_13901" data-name="패스 13901" d="M-548.582,242.358c0,4.619,2.233,6.639,3.428,7.389a1.609,1.609,0,0,1,.735,1.376v2.724a1.664,1.664,0,0,1-1.663,1.663h-33.456a1.664,1.664,0,0,1-1.664-1.663v-2.728a1.61,1.61,0,0,1,.729-1.372c1.184-.751,3.4-2.772,3.4-7.389l-.014-6.326a14.253,14.253,0,0,1,14.254-14.253,14.253,14.253,0,0,1,14.253,14.253S-548.582,239.114-548.582,242.358Z" transform="translate(581.202 -221.779)" fill="none" stroke="#000" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="66" viewBox="0 0 66 66">
+  <g id="icn_mymenu_01" transform="translate(-117 -392)">
+    <rect id="사각형_4164" data-name="사각형 4164" width="66" height="66" transform="translate(117 392)" fill="none"/>
+    <path id="패스_20983" data-name="패스 20983" d="M593.823,2286.648v1.48a3.685,3.685,0,0,1-3.618,3.749h-1.264a3.685,3.685,0,0,1-3.618-3.749v-1.48H566.67v1.48a3.685,3.685,0,0,1-3.618,3.749h-1.264a3.685,3.685,0,0,1-3.617-3.749v-1.48H547.343v43.726h57.308v-43.726Z" transform="translate(-425.997 -1881.113)" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="선_711" data-name="선 711" x2="14.692" transform="translate(154.534 424.248)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+    <line id="선_712" data-name="선 712" x2="14.692" transform="translate(154.534 435.266)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+    <ellipse id="타원_421" data-name="타원 421" cx="4.966" cy="4.966" rx="4.966" ry="4.966" transform="translate(134.957 418.707)" fill="#4ac6ff"/>
+    <path id="패스_14244" data-name="패스 14244" d="M558.791,2324.464c-.1-5.021,4.33-9.165,9.894-9.255s10.156,3.908,10.256,8.929q0,.164,0,.326Z" transform="translate(-428.942 -1885.385)" fill="#4ac6ff"/>
+  </g>
+</svg>
